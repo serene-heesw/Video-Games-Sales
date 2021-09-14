@@ -1,5 +1,5 @@
 ## Video-Games-Sales
-Exploratory Data Alnalysis on the Video Games Sales
+Exploratory Data Alnalysis on the Video Games Sales using Power BI
 
 ## About the dataset
 data source: https://www.kaggle.com/sidtwr/videogames-sales-dataset?select=Video_Games_Sales_as_at_22_Dec_2016.csv
